@@ -1,0 +1,4 @@
+
+23/03/06 12:14 [boot] Started. Last reset cause recorded 1
+23/03/06 12:14 [boot] Connected to {your ssid}. IP 192.168.1.145
+23/03/06 12:15 [main] MAIN.PY Started
